@@ -1,4 +1,5 @@
-</main>
+
+    </main>
 
 <hr>
 
@@ -7,4 +8,5 @@
 </footer>
 
 </body>
+
 </html>

@@ -22,9 +22,10 @@
         <a href="/tables.php">TABELAS</a>
         &bull;
         <a href="/lists.php">LISTAS</a>
+        &bull;
+        <a href="/forms.php">FORMULÁRIOS</a>
     </nav>
 
     <hr>
 
     <main>
-
